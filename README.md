@@ -16,7 +16,7 @@ This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 Intern
 
 Cite this data as: 
 
-Devon Goshorn, Joud Satme, and Austin Downey. Dataset-7-forced-vibration-and-shock, October 2019. URL: https://github.com/High-Rate-SHM-Working-Group/Dataset-7-forced-vibration-and-shock
+Yount, Ryan, Jacob Dodson, and Adriane Moura. Dataset 9 Repeated Impact Testing of Rectangular Electronic Assembly. High-Rate-SHM-Working-Group. Accessed at "Dataset 9 Repeated Impact Testing of Rectangular Electronic Assembly."
 
 #### Bibtex
 
