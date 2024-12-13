@@ -1,0 +1,10 @@
+E:\415user_workspace\INTERN_2024\RECTANGULAR\L5B03\Sep_t28_L5B03_FF_h11-0m116F1.txt
+Programmer - 
+Striker Velocity - 0.238
+Sampling Frequency - 2000000
+Thu, Jul 11, 2024 10:17 AM
+BotSG Bend	BotSG Long	Time
+Strain (um/m)	Strain (um/m)	Sec
+0.0 0.0 3	0.0 0.0 3	
+		
+

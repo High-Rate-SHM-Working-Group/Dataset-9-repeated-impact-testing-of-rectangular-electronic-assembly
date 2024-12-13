@@ -1,6 +1,7 @@
 # Dataset 9 Repeated Impact Testing of Rectangular Electronic Assembly
-Dataset 9 repeated impact testing of rectangular electronic assembly
+Dataset 9 repeated impact testing of rectangular electronic assembly with the intention of controlled and monitored failure of an electronic component
 
+L5B03 is a 5 inch board configured in a fixed-fixed supported test structure
 
 
 
