@@ -1,7 +1,7 @@
-# Dataset 9 Repeated Impact Testing of Rectangular Electronic Assembly
-Dataset 9 repeated impact testing of rectangular electronic assembly with the intention of controlled and monitored failure of an electronic component
+# Dataset-9 Repeated Impact Testing of Rectangular Electronic Assembly
+Dataset 9 repeated impact testing of a rectangular electronic assembly with the intention of controlled and monitored failure of an electronic component
 
-L5B03 is a 5 inch board configured in a fixed-fixed supported test structure
+L5B03 is a 5-inch board configured in a fixed-fixed supported test structure
 
 
 
@@ -17,13 +17,13 @@ This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 Intern
 
 Cite this data as: 
 
-Yount, Ryan, Jacob Dodson, and Adriane Moura. Dataset 9 Repeated Impact Testing of Rectangular Electronic Assembly. High-Rate-SHM-Working-Group. Accessed at "Dataset 9 Repeated Impact Testing of Rectangular Electronic Assembly."
+Yount, Ryan, Jacob Dodson, and Adriane Moura. Dataset-9 Repeated Impact Testing of Rectangular Electronic Assembly. High-Rate-SHM-Working-Group. Accessed at "Dataset 9 Repeated Impact Testing of Rectangular Electronic Assembly."
 
 #### Bibtex
 
 @Misc{YountDataset9Repeated,  
   author = {Ryan Yount and Jacob Dodson and Adriane Moura},  
-  title  = {Dataset 9 Repeated Impact Testing of Rectangular Electronic Assembly},  
+  title  = {Dataset-9 Repeated Impact Testing of Rectangular Electronic Assembly},  
   groups = {High-Rate-SHM-Working-Group},  
   url    = {Dataset 9 Repeated Impact Testing of Rectangular Electronic Assembly},  
 }  
