@@ -3,10 +3,17 @@ Dataset 9 repeated impact testing of a rectangular electronic assembly with the 
 
 L5B03 is a 5-inch board configured in a fixed-fixed supported test structure
 
+![Figure 1](Figures/Droptower.png)
 
+**Figure 1:** Drop tower test setup including the top and bottom of the fixed-fixed PCB.
 
+![Figure 2](Figures/progression.png)
 
+**Figure 2:** Frames from a high-speed camera showing the board during a resistor failure drop.
 
+![Figure 3](Figures/comparison_plot.png)
+
+**Figure 3:** Time series representation of shock tests leading up to a final test where the resistor became detached.
 
 ## Licensing and Citation
 
