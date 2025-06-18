@@ -2,6 +2,7 @@
 Dataset 9 repeated impact testing of a rectangular electronic assembly with the intention of controlled and monitored failure of an electronic component.
 
 L5B03 is a 5.5-inch board configured in a fixed-fixed supported test structure (effective length 4.5 in).
+A 2 Watt 1 kOhm Resistor was used for this experiment. (https://www.digikey.com/en/products/detail/te-connectivity-passive-product/SMQF21K0JT/21316632?s=N4IgTCBcDaIMoFkCKAxMBGA0gBgFIBUQBdAXyA)
 
 ![Figure 1](Figures/Droptower.png)
 
